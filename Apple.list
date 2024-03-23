@@ -1,2 +1,4 @@
 ## Apple代理连接
 HOST-KEYWORD,apple,proxy
+HOST-SUFFIX,mzstatic.com,proxy
+HOST-SUFFIX,icloud.com,proxy
