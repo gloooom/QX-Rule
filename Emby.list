@@ -1,7 +1,4 @@
-## Apple代理连接
-HOST-SUFFIX,appstore.com,proxy
-HOST-SUFFIX,apzones.com,proxy
-HOST-SUFFIX,me.com,proxy
-HOST-SUFFIX,mzstatic.com,proxy
-HOST-SUFFIX,icloud.com,proxy
-HOST-KEYWORD,apple,proxy
+## Emby代理连接
+DOMAIN,emby.aca.best,proxy
+DOMAIN,porn.aca.best,proxy
+HOST-KEYWORD,emby,proxy
